@@ -4,6 +4,7 @@ backend:
   accept_roles:
     - admin
     - editor
+    base_url: https://yfpmf1mmp7aiw8ce6818.cleaver.live
 media_folder: theme/assets/images
 public_folder: /assets/images
 collections:
